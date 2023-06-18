@@ -1,2 +1,4 @@
 This is the first line of a file.
 This is the second line of a file.
+
+*** This is a new line, added after the first commit. **
