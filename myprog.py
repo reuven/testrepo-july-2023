@@ -11,3 +11,6 @@ from vowels import count_vowels
 filename = input('Enter a filename: ').strip()
 
 print(count_vowels(filename))
+
+import string
+string.capwords
